@@ -7,3 +7,12 @@ C:\Users\Dennis\source\repos\FacturacionElectronica\CapaPresentacion\obj\Debug\C
 C:\Users\Dennis\source\repos\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\Dennis\source\repos\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\Dennis\source\repos\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
