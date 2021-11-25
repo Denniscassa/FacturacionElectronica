@@ -1,0 +1,13 @@
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\bin\Debug\FacturacionElectronica.exe.config
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\bin\Debug\FacturacionElectronica.exe
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\bin\Debug\FacturacionElectronica.pdb
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\bin\Debug\CapaPresentacion.dll
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\bin\Debug\CapaPresentacion.pdb
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.AssemblyReference.cache
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.FLogin.resources
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.Form1.resources
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.Properties.Resources.resources
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.GenerateResource.cache
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.exe
+C:\Users\Dennis\source\repos\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.pdb

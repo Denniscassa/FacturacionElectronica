@@ -1,0 +1,9 @@
+C:\Users\Dennis\source\repos\FacturacionElectronica\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Dennis\source\repos\FacturacionElectronica\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Dennis\source\repos\FacturacionElectronica\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Dennis\source\repos\FacturacionElectronica\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Dennis\source\repos\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Dennis\source\repos\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\repos\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Dennis\source\repos\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Dennis\source\repos\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.pdb
