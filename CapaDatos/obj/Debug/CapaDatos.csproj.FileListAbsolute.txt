@@ -10,3 +10,9 @@ C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaDatos\obj\Debug\Capa
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaDatos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaDatos\bin\Debug\SpreadsheetLight.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaDatos\bin\Debug\System.Drawing.Common.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaDatos\bin\Debug\System.IO.Packaging.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaDatos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaDatos\bin\Debug\System.IO.Packaging.xml

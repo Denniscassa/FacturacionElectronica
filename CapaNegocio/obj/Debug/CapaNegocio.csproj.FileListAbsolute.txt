@@ -16,3 +16,9 @@ C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\obj\Debug\Ca
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\bin\Debug\System.Drawing.Common.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\bin\Debug\System.IO.Packaging.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\bin\Debug\System.IO.Packaging.xml

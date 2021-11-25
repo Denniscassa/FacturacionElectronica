@@ -16,3 +16,9 @@ C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Deb
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\SpreadsheetLight.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\System.IO.Packaging.xml

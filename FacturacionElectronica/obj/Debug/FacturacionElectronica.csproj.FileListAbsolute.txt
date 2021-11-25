@@ -25,3 +25,9 @@ C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\o
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.CopyComplete
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.exe
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\SpreadsheetLight.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\System.Drawing.Common.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\System.IO.Packaging.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\System.IO.Packaging.xml
