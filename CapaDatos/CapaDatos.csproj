@@ -60,6 +60,9 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CD_Almacen.cs" />
+    <Compile Include="CD_Productos.cs" />
+    <Compile Include="CD_Usuarios.cs" />
     <Compile Include="ConnectionToSql.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
