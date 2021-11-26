@@ -8,6 +8,6 @@ namespace CapaDatos
 {
     public class Class1
     {
-       // yonder bien papu 
+       // yonder bien papu si todo esta bien
     }
 }
