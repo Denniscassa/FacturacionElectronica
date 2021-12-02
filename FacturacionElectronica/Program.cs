@@ -16,7 +16,8 @@ namespace FacturacionElectronica
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FInicio());
+            //Application.Run(new Form1());
             //Application.Run(new FLogin());
         }
     }
