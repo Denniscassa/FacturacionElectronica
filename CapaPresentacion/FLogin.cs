@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 
 
-namespace FacturacionElectronica
+namespace CapaPresentacion
 {
     public partial class FLogin : Form
     {

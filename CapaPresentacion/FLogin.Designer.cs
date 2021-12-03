@@ -1,5 +1,5 @@
 ﻿
-namespace FacturacionElectronica
+namespace CapaPresentacion
 {
     partial class FLogin
     {
@@ -53,7 +53,7 @@ namespace FacturacionElectronica
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(250, 330);
-            this.panel1.TabIndex = 9;
+            this.panel1.TabIndex = 17;
             // 
             // pictureBox3
             // 
@@ -67,25 +67,27 @@ namespace FacturacionElectronica
             // 
             // btnminimizar
             // 
+            this.btnminimizar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnminimizar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnminimizar.Image = ((System.Drawing.Image)(resources.GetObject("btnminimizar.Image")));
-            this.btnminimizar.Location = new System.Drawing.Point(742, 3);
+            this.btnminimizar.Location = new System.Drawing.Point(729, 3);
             this.btnminimizar.Name = "btnminimizar";
             this.btnminimizar.Size = new System.Drawing.Size(15, 15);
             this.btnminimizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.btnminimizar.TabIndex = 16;
+            this.btnminimizar.TabIndex = 24;
             this.btnminimizar.TabStop = false;
             this.btnminimizar.Click += new System.EventHandler(this.btnminimizar_Click);
             // 
             // btncerrar
             // 
+            this.btncerrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btncerrar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btncerrar.Image = ((System.Drawing.Image)(resources.GetObject("btncerrar.Image")));
-            this.btncerrar.Location = new System.Drawing.Point(763, 3);
+            this.btncerrar.Location = new System.Drawing.Point(750, 3);
             this.btncerrar.Name = "btncerrar";
             this.btncerrar.Size = new System.Drawing.Size(15, 15);
             this.btncerrar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.btncerrar.TabIndex = 15;
+            this.btncerrar.TabIndex = 23;
             this.btncerrar.TabStop = false;
             this.btncerrar.Click += new System.EventHandler(this.btncerrar_Click);
             // 
@@ -98,7 +100,7 @@ namespace FacturacionElectronica
             this.linkpass.Location = new System.Drawing.Point(424, 286);
             this.linkpass.Name = "linkpass";
             this.linkpass.Size = new System.Drawing.Size(182, 17);
-            this.linkpass.TabIndex = 10;
+            this.linkpass.TabIndex = 18;
             this.linkpass.TabStop = true;
             this.linkpass.Text = "¿Ha olvidado contraseña?";
             // 
@@ -113,7 +115,7 @@ namespace FacturacionElectronica
             this.btnlogin.Location = new System.Drawing.Point(312, 236);
             this.btnlogin.Name = "btnlogin";
             this.btnlogin.Size = new System.Drawing.Size(408, 40);
-            this.btnlogin.TabIndex = 13;
+            this.btnlogin.TabIndex = 21;
             this.btnlogin.Text = "ACCEDER";
             this.btnlogin.UseVisualStyleBackColor = false;
             // 
@@ -122,10 +124,10 @@ namespace FacturacionElectronica
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(505, 3);
+            this.label1.Location = new System.Drawing.Point(492, 3);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(101, 32);
-            this.label1.TabIndex = 14;
+            this.label1.TabIndex = 22;
             this.label1.Text = "LOGIN";
             // 
             // txtpass
@@ -137,7 +139,7 @@ namespace FacturacionElectronica
             this.txtpass.Location = new System.Drawing.Point(312, 142);
             this.txtpass.Name = "txtpass";
             this.txtpass.Size = new System.Drawing.Size(408, 24);
-            this.txtpass.TabIndex = 12;
+            this.txtpass.TabIndex = 20;
             this.txtpass.Text = "Contraseña";
             this.txtpass.Enter += new System.EventHandler(this.txtpass_Enter);
             this.txtpass.Leave += new System.EventHandler(this.txtpass_Leave);
@@ -151,7 +153,7 @@ namespace FacturacionElectronica
             this.txtuser.Location = new System.Drawing.Point(312, 77);
             this.txtuser.Name = "txtuser";
             this.txtuser.Size = new System.Drawing.Size(408, 24);
-            this.txtuser.TabIndex = 11;
+            this.txtuser.TabIndex = 19;
             this.txtuser.Text = "Usuario";
             this.txtuser.Enter += new System.EventHandler(this.txtuser_Enter);
             this.txtuser.Leave += new System.EventHandler(this.txtuser_Leave);
@@ -161,7 +163,7 @@ namespace FacturacionElectronica
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(57)))), ((int)(((byte)(80)))));
-            this.ClientSize = new System.Drawing.Size(780, 330);
+            this.ClientSize = new System.Drawing.Size(768, 330);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnminimizar);
             this.Controls.Add(this.btncerrar);

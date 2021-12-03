@@ -11,9 +11,9 @@ namespace CapaDatos
 {
     public abstract class  ConnectionToSql
     {
-        public static string cn = "Data Source= DESKTOP-O080QAR/SQLEXPRESS ; Initial Catalog=MyCompany; Integrated Security=true";
+        public static string cn = "Data Source= DESKTOP-O080QAR/SQLEXPRESS ; Initial Catalog=db_topnevel; Integrated Security=true";
 
-/*        private readonly string connectionString;
+/*         private readonly string connectionString;
 
         public ConnectionToSql()
         {

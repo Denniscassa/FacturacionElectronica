@@ -31,15 +31,6 @@ C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\b
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\System.IO.Packaging.dll
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\DocumentFormat.OpenXml.xml
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\System.IO.Packaging.xml
-C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.AssemblyReference.cache
-C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.FInicio.resources
-C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.FLogin.resources
-C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.Form1.resources
-C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.Properties.Resources.resources
-C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.GenerateResource.cache
-C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.CoreCompileInputs.cache
-C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.exe
-C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.pdb
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\FacturacionElectronica.exe.config
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\FacturacionElectronica.exe
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\FacturacionElectronica.pdb
@@ -51,4 +42,10 @@ C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\b
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\CapaPresentacion.pdb
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\DocumentFormat.OpenXml.xml
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\System.IO.Packaging.xml
-C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.FProducto.resources
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.AssemblyReference.cache
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.Form1.resources
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.Properties.Resources.resources
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.GenerateResource.cache
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.exe
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.pdb

@@ -29,10 +29,16 @@ C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Deb
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\SpreadsheetLight.dll
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\System.Drawing.Common.dll
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\CapaDatos.dll
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\CapaNegocio.pdb
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\CapaDatos.pdb
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.FInicio.resources
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.FLogin.resources
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.FProducto.resources
+C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

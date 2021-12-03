@@ -7,17 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+
 using System.Runtime.InteropServices;
 
-namespace FacturacionElectronica
+namespace CapaPresentacion
 {
     public partial class FInicio : Form
     {
-        //Constructor
         public FInicio()
         {
             InitializeComponent();
-            
+
             //Estas lineas eliminan los parpadeos del formulario o controles en la interfaz grafica (Pero no en un 100%)
             this.SetStyle(ControlStyles.ResizeRedraw, true);
             this.DoubleBuffered = true;
@@ -99,8 +99,6 @@ namespace FacturacionElectronica
         private extern static void SendMessage(System.IntPtr hwnd, int wmsg, int wparam, int lparam);
         #endregion
 
-
-
         private void AbrirFormulario<MiForm>() where MiForm : Form, new()
         {
             Form formulario;
@@ -129,9 +127,26 @@ namespace FacturacionElectronica
             AbrirFormulario<FProducto>();
         }
 
-        private void pictureUsuario_Click(object sender, EventArgs e)
+        private void btnminimizar_Click_1(object sender, EventArgs e)
         {
-            AbrirFormulario<FUsuario>();
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void btncerrar_Click_1(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnmaximizar_Click_1(object sender, EventArgs e)
+        {
+            this.Size = Screen.PrimaryScreen.WorkingArea.Size;
+            this.Location = Screen.PrimaryScreen.WorkingArea.Location;
+        }
+
+        private void panelBarraTitulo_MouseMove_1(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
     }
 }

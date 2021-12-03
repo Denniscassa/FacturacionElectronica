@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FacturacionElectronica
+namespace CapaPresentacion
 {
-    public partial class FUsuario : Form
+    public partial class FTipoUsuario : Form
     {
-        public FUsuario()
+        public FTipoUsuario()
         {
             InitializeComponent();
         }
