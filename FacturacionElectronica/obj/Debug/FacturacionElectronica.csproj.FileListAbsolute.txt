@@ -17,12 +17,10 @@ C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\b
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\CapaPresentacion.dll
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\CapaPresentacion.pdb
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.AssemblyReference.cache
-C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.FLogin.resources
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.Form1.resources
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.Properties.Resources.resources
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.GenerateResource.cache
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.CoreCompileInputs.cache
-C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.CopyComplete
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.exe
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.pdb
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\DocumentFormat.OpenXml.dll
@@ -49,3 +47,7 @@ C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\o
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.csproj.CoreCompileInputs.cache
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.exe
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\obj\Debug\FacturacionElectronica.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\CapaNegocio.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\CapaDatos.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\CapaNegocio.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\FacturacionElectronica\bin\Debug\CapaDatos.pdb

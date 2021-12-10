@@ -8,7 +8,7 @@
 * =======================================================================================
 */
 
-
+--DROP DATABASE IF EXISTS db_topnevel;
 CREATE DATABASE db_topnevel;
 USE db_topnevel;
 
@@ -73,7 +73,7 @@ CREATE TABLE T_MARCA
 CREATE TABLE T_TIPO_PRENDA
 (
 	Id_TipoPrenda INT IDENTITY (1,1) NOT NULL PRIMARY KEY,
-	Categoria VARCHAR(60)
+	TipoPrenda VARCHAR(100)
 );
 
 CREATE TABLE T_TELA
@@ -85,7 +85,7 @@ CREATE TABLE T_TELA
 CREATE TABLE T_MODELO
 (
 	Id_Modelo INT IDENTITY (1,1) NOT NULL PRIMARY KEY,
-	Modelo VARCHAR(100)
+	Modelo VARCHAR(100),
 );
 
 CREATE TABLE T_TALLA
@@ -251,8 +251,8 @@ CREATE TABLE T_CERRAR_CAJA
 
 
 --TIPO USUARIO
-insert into T_TIPO_USUARIO(Id_TipoUsuario) values('ADMINISTRADOR');
-insert into T_TIPO_USUARIO(Id_TipoUsuario) values('VENDEDOR');
+insert into T_TIPO_USUARIO(Cargo,Descripcion) values('ADMINISTRADOR','tiene acceso a todo');
+insert into T_TIPO_USUARIO(Cargo,Descripcion) values('VENDEDOR','solo puede acceder a ventas y caja del dia');
 
 --TURNO
 insert into T_TURNO(Turno,Hora_Inicio, Hora_Fin) values('FULL TIME','08:00:00','18:00:00');
@@ -295,3 +295,34 @@ insert into T_TALLA(Talla) values('XL');
 insert into T_TALLA(Talla) values('M');
 insert into T_TALLA(Talla) values('S');
 insert into T_TALLA(Talla) values('SM');
+
+insert into T_CATEGORIA(Categoria) values('VARIOS');
+
+insert into T_MARCA(Marca) values('VARIOS');
+
+insert into T_TIPO_PRENDA(TipoPrenda) values('VARIOS');
+insert into T_TIPO_PRENDA(TipoPrenda) values('PANTALON');
+insert into T_TIPO_PRENDA(TipoPrenda) values('POLO');
+insert into T_TIPO_PRENDA(TipoPrenda) values('CHOMPA');
+insert into T_TIPO_PRENDA(TipoPrenda) values('CAMISA');
+insert into T_TIPO_PRENDA(TipoPrenda) values('CASACA');
+insert into T_TIPO_PRENDA(TipoPrenda) values('POLERA');
+insert into T_TIPO_PRENDA(TipoPrenda) values('GORRO');
+insert into T_TIPO_PRENDA(TipoPrenda) values('BUFANDA');
+insert into T_TIPO_PRENDA(TipoPrenda) values('ZAPATO');
+
+insert into T_TELA(Tela) values('VARIOS');
+insert into T_TELA(Tela) values('JEANS');
+insert into T_TELA(Tela) values('DRILL');
+
+insert into T_MODELO(Modelo) values('VARIOS');
+insert into T_MODELO(Modelo) values('PITILLO');
+insert into T_MODELO(Modelo) values('RECTA');
+
+--datos de prueba
+insert into T_PRODUCTO(Cod_Barra,Producto,Codigo,Id_Categoria,Id_Marca,Id_TipoPrenda,Id_Tela,Id_Modelo,Id_Talla,Descripcion)
+values('1s23ad45','PRODUCTO 01', 'XS25',1,1,1,1,1,1,'SIN DESCRIPCION');
+insert into T_PRODUCTO(Cod_Barra,Producto,Codigo,Id_Categoria,Id_Marca,Id_TipoPrenda,Id_Tela,Id_Modelo,Id_Talla,Descripcion)
+values('1s23ad45','PRODUCTO 02', 'XS25',1,1,1,1,1,1,'SIN DESCRIPCION');
+insert into T_PRODUCTO(Cod_Barra,Producto,Codigo,Id_Categoria,Id_Marca,Id_TipoPrenda,Id_Tela,Id_Modelo,Id_Talla,Descripcion)
+values('1s23ad45','PRODUCTO 03', 'XS25',1,1,1,1,1,1,'SIN DESCRIPCION');

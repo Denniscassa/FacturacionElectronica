@@ -13,7 +13,6 @@ C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Deb
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\CapaNegocio.pdb
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
-C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
@@ -42,3 +41,10 @@ C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Deb
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\Dennis\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.FInicio.resources
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.FLogin.resources
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.FProducto.resources
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.FTipoUsuario.resources
+C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache

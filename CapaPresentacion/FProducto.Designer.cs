@@ -34,6 +34,8 @@ namespace CapaPresentacion
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.label2 = new System.Windows.Forms.Label();
+            this.dgvListaProductos = new System.Windows.Forms.DataGridView();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
@@ -44,6 +46,7 @@ namespace CapaPresentacion
             this.label1 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListaProductos)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.tabPage2.SuspendLayout();
             this.SuspendLayout();
@@ -65,6 +68,8 @@ namespace CapaPresentacion
             // tabPage1
             // 
             this.tabPage1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(57)))), ((int)(((byte)(80)))));
+            this.tabPage1.Controls.Add(this.label2);
+            this.tabPage1.Controls.Add(this.dgvListaProductos);
             this.tabPage1.Controls.Add(this.button3);
             this.tabPage1.Controls.Add(this.button2);
             this.tabPage1.Controls.Add(this.button1);
@@ -75,6 +80,24 @@ namespace CapaPresentacion
             this.tabPage1.Size = new System.Drawing.Size(790, 422);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "tabPage1";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(262, 250);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(108, 13);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "esto es productos";
+            // 
+            // dgvListaProductos
+            // 
+            this.dgvListaProductos.AllowUserToOrderColumns = true;
+            this.dgvListaProductos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvListaProductos.Location = new System.Drawing.Point(8, 6);
+            this.dgvListaProductos.Name = "dgvListaProductos";
+            this.dgvListaProductos.Size = new System.Drawing.Size(588, 214);
+            this.dgvListaProductos.TabIndex = 4;
             // 
             // button3
             // 
@@ -221,8 +244,11 @@ namespace CapaPresentacion
             this.Controls.Add(this.tabControl1);
             this.Name = "FProducto";
             this.Text = "FProducto";
+            this.Load += new System.EventHandler(this.FProducto_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
+            this.tabPage1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListaProductos)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
@@ -242,5 +268,7 @@ namespace CapaPresentacion
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.DataGridView dgvListaProductos;
+        private System.Windows.Forms.Label label2;
     }
 }

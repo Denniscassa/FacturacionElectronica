@@ -13,7 +13,6 @@ C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\bin\Debug\Ca
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\bin\Debug\CapaDatos.pdb
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
-C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\obj\Debug\CapaNegocio.pdb
 C:\Users\yonder\Documents\GitHub\FacturacionElectronica\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
